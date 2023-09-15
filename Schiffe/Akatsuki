@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html style="background-color: lightseagreen;">
+    <div>
+        <head>
+<!--Hier Name des zu Bearbeitenden Schiffes eingeben-->
+            <title> Zerstörer Akatsuki</title>
+            <link href="Akatsukis.css" rel="stylesheet">
+        </head>
+    </div>
+  <body>
+    <nav id="Seitenauswahl">
+       <button><a style="color: black;" href="#Eine kleine Geschichte">Die Geschichte</a></button>
+       <button><a style="color: black;" href="#Stärken">Zu den Stärken</a></button>
+        <button><a style="color: black;" href="#Schwächen">Zu den Schwächen</a></button>
+<!--Hier nach den Namen des nächsten oder vorherigen Schiffes nennen-->
+<button>><a style="color: black;" href="Chikuma.html">Zur Chikuma</a></button>
+    </nav>
+    <header id="Überschrift">
+<!--Hier Überschrift des Schiffes einsetzen-->
+        <h1 id="Die Akatsuki">Die Akatsuki</h1>
+<!--Hier Zuerst Link zu Wikipädia einsetzen und danch den Link zum Bild bei Wikipädia-->
+       <figure>
+        <a href="https://de.wikipedia.org/wiki/Akatsuki-Klasse" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Ikazuchi_II.jpg?download" width="400" height="250"></a>
+        <figcaption>
+        <h4><u>Klicke auf das Bild wenn du mehr erfahren willst</u></h4>
+        </figcaption>
+       </figure>
+    </header>
+<main>
+    <div id="Eine kleine Geschichte">
+        <article>
+      <h3>Eine kleine Geschichte</h3>
+<!--Hier den kleinen Erklärtext von CHATGBT einsetzen-->
+      <p><strong>Die Akatsuki</strong> war ein Teil der Kagero-Klasse von Zerstörern und wurde während des Krieges für verschiedene Aufgaben eingesetzt. Ihr Name bedeutet <strong>"Morgendämmerung"</strong> auf Japanisch. Das Schiff <strong>wurde 1939 in Dienst gestellt</strong> und war in zahlreichen wichtigen Seeschlachten im Pazifikraum aktiv.
+
+        Eines ihrer bemerkenswertesten Einsatzgebiete war die Schlacht um Guadalcanal im Jahr 1942. Die Akatsuki kämpfte an der Seite anderer japanischer Schiffe gegen die amerikanische Marine, um die strategisch wichtige Insel Guadalcanal zurückzuerobern. Trotz des heldenhaften Einsatzes der japanischen Streitkräfte in dieser Schlacht verlor die Akatsuki und viele andere Schiffe der Kaiserlichen Marine.
+        
+        Die Akatsuki nahm auch an anderen Schlachten und Geleitschutzaufgaben im Pazifik teil, bevor sie schließlich 1943 in der Schlacht im Golf von Leyte versenkt wurde. Dies war ein bedeutender Wendepunkt im Krieg, bei dem die amerikanischen Streitkräfte die Oberhand gewannen.</p>
+        </article>
+    </div>
+     <div id="Stärken">
+        <h3>Stärken</h3>
+<!--Zwischen dem h4 Tag die 3 Stärken des Schiffes einsetzen-->
+        <ul>
+            <li><h4>Hohe Geschwindigkeit</h4></li>
+            <p>Die Kagero-Klasse-Zerstörer, zu der die Akatsuki gehörte, waren sehr schnell und konnten hohe Geschwindigkeiten aufnehmen. Dies ermöglichte es ihnen, effektiv als Eskortschiffe für Flotten und Konvois zu agieren.</p>
+            <li><h4>Torpedos</h4></li>
+            <p>Die Akatsuki trug eine erhebliche Anzahl von Torpedorohren, was ihre Angriffsfähigkeiten gegenüber feindlichen Schiffen verbesserte. Diese Torpedos hatten das Potenzial, schweren Schaden an feindlichen Schiffen zu verursachen.</p>
+            <li><h4>Anti-U-Boot-Fähigkeiten</h4></li>
+            <p>Diese Zerstörer wurden auch für die U-Boot-Bekämpfung ausgestattet. Sie konnten Sonar-Ausrüstung einsetzen, um U-Boote aufzuspüren und sie mit Tiefenladungen anzugreifen.</p>
+        </ul>
+     </div>
+     <div id="Schwächen">
+        <h3>Schwächen</h3>
+<!--Zwischen dem h4 Tag die 3 Schwächen des Schiffes einsetzen-->
+        <ul>
+         <li><h4>Leichte Bewaffnung</h4></li>
+         <p>Obwohl die Akatsuki und andere Zerstörer der Kagero-Klasse einige Torpedos trugen, hatten sie eine vergleichsweise leichte Hauptbewaffnung in Form von Geschützen. Dies machte sie anfällig gegenüber größeren Kriegsschiffen, insbesondere in direkten Artillerieduellen.</p>
+         <li><h4>Begrenzte Panzerung</h4></li>
+         <p> Die Zerstörer der Kagero-Klasse hatten nur eine begrenzte Panzerung, was sie anfällig für Feindfeuer und Torpedotreffer machte. In großen Seeschlachten waren sie oft den stärker gepanzerten Schlachtschiffen und Kreuzern unterlegen.</p>
+         <li><h4>Brennbarkeit:</h4></li>
+         <p>Während des Krieges wurden viele japanische Zerstörer, einschließlich der Akatsuki, Opfer von Bränden nach Bombenangriffen oder Artillerietreffern. Dies lag an ihrer begrenzten Feuersicherheit und an den oft brennbaren Materialien, aus denen sie gebaut waren.</p>
+        </ul>
+     </div>
+</main>
+<footer>
+        <button style="background-color: aqua;"><a style="color: black;" href="#Seitenauswahl">Zurück nach oben</a></button>
+</footer>
+<!--Gegebenfall noch eine Video einfügen, wenn sich eins finden lässt-->
+  </body>  
+</html>

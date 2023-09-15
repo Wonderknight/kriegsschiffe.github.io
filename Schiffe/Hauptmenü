@@ -1,0 +1,30 @@
+<!DOCTYPE  html>
+<html>
+    <div id="Seitenkopf">
+        <head>
+            <title>Hauptmenü für die Schiffe</title>
+            <link href="stylesheet.css" rel="stylesheet">
+        </head>
+    </div>
+    <main id="Buttonknopf">
+        <table> 
+<!--Hier soll eine Tabelle entstehen, wo meine Schiffe als Namen angezeigt werden und als Links dienen um zu ihren Eintragungen zu kommen-->
+        <thead colspan="2">
+            <tr id="title">
+                <h1>Die Schiffe die zur Auswahl stehen</h1>
+            </tr>
+        </thead>
+<!--Hier soll ein Tabellenrand entstehen-->
+        <tbody id="DieSchiffe">
+            <tr class='Nagato Fuso' scope="row">
+                <td><a href="./Nagato"><h2>-Nagato-</h2></a></td>
+                <td><a href="./Fuso"><h2>-Fuso-</h2></a></td>
+            </tr>
+            <tr class='Nagato Fuso'>
+                <td><a href="./Kongo"><h2>-Kongo-</h2></a></td>
+                <td><a href="./Chikuma.html"><h2>-Chikuma-</h2></a></td>
+            </tr>
+        </tbody>
+       </table>
+    </main>
+</html>

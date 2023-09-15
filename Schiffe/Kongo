@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html style="background-color: blanchedalmond;">
+    <div>
+        <head>
+<!--Hier Name des zu Bearbeitenden Schiffes eingeben-->
+            <title>Schlachtschiff Kongo</title>
+        </head>
+    </div>
+  <body>
+     <div>
+        <nav id="Navigation">
+            <a style="color: black;" href="#Eine kleine Geschichte">Die Geschichte</a>
+            <a style="color: black;" href="#Stärken">Zu den Stärken</a>
+            <a style="color: black;" href="#Schwächen">Zu den Schwächen</a>
+<!--Hier nach den Namen des nächsten oder vorherigen Schiffes nennen-->
+            <a style="color: black;" href="./Nagato" target="_blank">Zur Nagato</a>
+            <a style="color: black;" href="./Hauptmenü">Hauptmenü</a>
+        </nav>
+     </div>
+     <div id="Überschrift">
+<!--Hier Überschrift des Schiffes einsetzen-->
+        <h1>Schlachtschiff Kongo</h1>
+<!--Hier Zuerst Link zu Wikipädia einsetzen und danch den Link zum Bild bei Wikipädia-->
+        <a href="https://de.wikipedia.org/wiki/Kong%C5%8D_(Schiff%2C_1913)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Kongo_after_reconstruction.jpg"></a>
+        <h4><u>Klicke auf das Bild wenn du mehr erfahren willst</u></h4>
+     </div>
+     <div id="Eine kleine Geschichte">
+        <h3>Eine kleine Geschichte</h3>
+<!--Hier den kleinen Erklärtext von CHATGBT einsetzen-->
+        <p>Die Geschichte <strong>der Kongo</strong> begann im Jahr 1911, als das Schiff in Großbritannien in Auftrag gegeben wurde. Ursprünglich wurde es für die Royal Navy gebaut, aber im Zuge des Anglo-Japanischen Bündnisses entschied man sich, das Schiff an Japan zu verkaufen. Das Schlachtschiff wurde 1913 in Dienst gestellt und war eines der ersten Schlachtschiffe mit Turbinenantrieb und einem einheitlichen Geschützturm-Design.
+
+                Während des Ersten Weltkriegs war die Kongo an verschiedenen Operationen beteiligt, hauptsächlich in der asiatischen Region. Nach dem Krieg wurde sie modernisiert und blieb im Dienst der japanischen Marine. Während des Zweiten Weltkriegs spielte die Kongo eine wichtige Rolle in mehreren Schlachten im Pazifik. Besonders bekannt ist ihre Beteiligung an der Schlacht um Guadalcanal im Jahr 1942.
+                
+                Im Laufe des Krieges wurde die Kongo mehrmals modernisiert und ihre Flugabwehrbewaffnung verstärkt. Trotzdem konnte sie den technologischen Fortschritten der Alliierten nicht standhalten, und das Schiff wurde im November 1944 bei einem Luftangriff auf Brunei schwer beschädigt.
+                
+                Nach dem Krieg wurde die Kongo an die Alliierten übergeben und schließlich 1947 außer Dienst gestellt. Sie wurde 1952 abgewrackt.</p>
+     </div>
+     <div id="Stärken">
+        <h3>Stärken</h3>
+<!--Zwischen dem h4 Tag die 3 Stärken des Schiffes einsetzen-->
+        <ul>
+            <li><h4>Geschwindigkeit</h4></li>
+            <p>Die Kongo war eines der ersten Schlachtschiffe mit Turbinenantrieb und war daher im Vergleich zu älteren Schlachtschiffen sehr schnell. Dies ermöglichte es ihr, sich schnell zu bewegen und Operationen in verschiedenen Teilen des Pazifiks durchzuführen.</p>
+            <li><h4>Bewaffnung</h4></li>
+            <p>Das Schiff war mit einer beeindruckenden Hauptbewaffnung ausgestattet, die aus zehn 14-Zoll-(35,6 cm)-Geschützen bestand. Diese Geschütze hatten eine große Reichweite und Durchschlagskraft.</p>
+            <li><h4></h4></li>
+            <p></p>
+        </ul>
+     </div>
+     <div id="Schwächen">
+        <h3>Schwächen</h3>
+<!--Zwischen dem h4 Tag die 3 Schwächen des Schiffes einsetzen-->
+        <ul>
+         <li><h4>Panzerung</h4></li>
+         <p>Die Kongo hatte zwar eine solide Panzerung, aber sie war nicht so stark wie die von einigen anderen Schlachtschiffen ihrer Zeit. Dies machte sie anfälliger für feindliche Treffer.</p>
+         <li><h4>Flugabwehrbewaffnung</h4></li>
+         <p>Obwohl die Flugabwehrbewaffnung im Laufe der Zeit verbessert wurde, war sie anfangs nicht ausreichend, um feindliche Flugzeuge effektiv abzuwehren. Dies wurde besonders im Zweiten Weltkrieg zu einem Problem, als Luftangriffe häufiger wurden.</p>
+         <li><h4>Technologische Überholung</h4></li>
+         <p>Obwohl die Kongo während ihrer Dienstzeit modernisiert wurde, konnte sie den technologischen Fortschritten der Alliierten nicht standhalten, was zu ihrer schließlich schweren Beschädigung und Außerdienststellung im Zweiten Weltkrieg führte.</p>
+        </ul>
+     </div>
+<!--Gegebenfall noch eine Video einfügen, wenn sich eins finden lässt-->
+    <footer>
+      <button style="margin-left: 80%;">
+        <a style="color: black;" href="#Navigation">Zum Seitenkopf</a>
+      </button>
+    </footer>  
+  </body>  
+</html>

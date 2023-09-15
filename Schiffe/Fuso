@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <div id="Seitenkopf">
+    <head>
+        <title>Schlachtschiff Fuso</title>
+    </head>
+  </div>
+  <body>
+   <div>
+    <nav>
+        <a href="#Eine kleine Geschichte">Die Geschichte</a>
+        <a href="#Stärken">Zu den Stärken</a>
+        <a href="#Schwächen">Zu den Schwächen</a>
+        <a href="./Chikuma.html">Zur Chikuma</a>
+        <a href="./Hauptmenü">Hauptmenü</a>
+    </nav>
+   </div> 
+  <div id="Überschrift"><!--Hier soll der Name des Schiffs und ein Bild der Fuso angezeigt werden-->
+    <h1>Schlachtschiff Fuso</h1>
+    <a href="https://de.wikipedia.org/wiki/Fus%C5%8D_(Schiff%2C_1915)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Fuso-2.jpg" width="500" height="250"></a>
+    <h4><u>Klicke auf das Bild wenn du mehr erfahren willst</u></h3>
+  </div>
+  <div id="Eine kleine Geschichte">
+    <h3>Eine kleine Geschichte</h3>
+      <p><strong>Die Fuso</strong> wurde in den frühen 1910er Jahren in Auftrag gegeben und war eines der ersten Schlachtschiffe der sogenannten "8-8"-Klasse, was bedeutete, dass sie <em>acht Hauptgeschütze</em> in vier Doppeltürmen trug und eine Geschwindigkeit von rund 23 Knoten erreichen konnte. Sie wurde 1915 in Dienst gestellt und spielte eine wichtige Rolle in der Zeit vor dem Ersten Weltkrieg, als die Spannungen in der Region zunahmen.
+
+        Während des Ersten Weltkriegs blieb <strong>die Fuso</strong> größtenteils in japanischen Gewässern und war nicht direkt in größeren Kämpfen verwickelt. Nach dem Krieg wurde sie jedoch modernisiert und verbessert, um den Anforderungen der Zeit gerecht zu werden. In den 1930er Jahren nahm Japan an der Expansionspolitik teil und die Fuso wurde zu einem wichtigen Bestandteil der japanischen Flotte.
+        
+        Während des Zweiten Weltkriegs war die Fuso in verschiedenen Schlachten und Operationen im Pazifikraum im Einsatz. Ihr größter Moment kam im Oktober 1944 während der Schlacht im Golf von Leyte, als sie Teil der Zentralen Kraft in der größten Seeschlacht des Zweiten Weltkriegs war. Leider wurde die Fuso in dieser Schlacht von US-amerikanischen Flugzeugen schwer getroffen und sank, wobei die Mehrheit ihrer Besatzung den Tod fand.</p>
+  </div>
+  <div id="Stärken">
+    <h3>Stärken der Fuso</h3>
+      <ul>
+        <li><h4>Bewaffnung</h4>
+        <p>Die Fuso-Klasse war mit <b>acht Hauptgeschützen</b> ausgestattet, die in <b>vier Doppeltürmen</b> untergebracht waren. Jedes dieser Geschütze hatte ein <b>Kaliber von 35,6 cm (14 Zoll)</b>, was zu dieser Zeit als beeindruckend galt. Diese Geschütze gaben den Schiffen eine starke Feuerkraft, die für den Kampf auf hoher See entscheidend war.</p></li>
+        <li><h4>Geschwindigkeit</h4>
+        <p>Die Fuso-Klasse war relativ schnell für Schlachtschiffe ihrer Zeit und konnte Geschwindigkeiten von <b>rund 23 Knoten</b> erreichen. Diese Geschwindigkeit erlaubte es ihnen, sich effektiver in verschiedenen operativen Szenarien zu bewegen und ihre Positionen zu ändern.</p></li>
+        <li><h4>Verbesserte Konstruktion</h4>
+        <p>Die Fuso wurde nach dem Ersten Weltkrieg modernisiert und verbessert, was ihre Überlebensfähigkeit und Leistungsfähigkeit steigerte. Sie erhielt eine stärkere Panzerung und bessere Feuerleitsysteme.</p></li>
+      </ul>
+  </div>
+  <div id="Schwächen">
+    <h3>Schwächen</h3>
+    <ul>
+        <li><h4>Panzerung</h4><p>Obwohl die Fuso eine verbesserte Panzerung erhielt, war sie immer noch anfällig für Angriffe von Flugzeugen und modernen Schlachtschiffen. Die Panzerung war nicht ausreichend, um sie vor den Luftangriffen während des Zweiten Weltkriegs zu schützen.</p></li>
+        <li><h4>Flugabwehr</h4><p>Die Flugabwehrbewaffnung der Fuso-Klasse war zu Beginn des Zweiten Weltkriegs veraltet und unzureichend, um sich effektiv gegen Luftangriffe zur Wehr zu setzen. Dies machte sie anfälliger für Angriffe von Flugzeugträgern.</p></li>
+        <li><h4>Begrenzte Reichweite</h4><p>Trotz ihrer Geschwindigkeit und Feuerkraft hatte die Fuso-Klasse aufgrund ihres Treibstoffverbrauchs und ihrer Reichweite begrenzte Einsatzmöglichkeiten. Sie war nicht in der Lage, lange Entfernungen zu überbrücken, ohne auf Treibstoffnachschub angewiesen zu sein.</p></li>
+    </ul>
+  </div>
+  <div id="Medien">
+    <video></video>
+  </div>
+  </body>
+</html>

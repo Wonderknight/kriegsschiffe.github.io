@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html style="background-color: blanchedalmond;">
+    <div>
+        <head>
+            <title>Schlachtschiff Nagato</title>
+        </head>
+    </div>
+  <body>
+     <div>
+        <nav id="Navigation">
+            <a style="color: black;" href="#Eine kleine Geschichte">Die Geschichte</a>
+            <a style="color: black;" href="#Stärken">Zu den Stärken</a>
+            <a style="color: black;" href="#Schwächen">Zu den Schwächen</a>
+<!--Hier nach den Namen des nächsten oder vorherigen Schiffes nennen-->
+            <a style="color: black;" href="./Fuso" target="_blank">Zur Fuso</a>
+            <a style="color: black;" href="./Hauptmenü">Hauptmenü</a>
+        </nav>
+     </div>
+     <header id="Überschrift">
+        <h1>Schlachtschiff Nagato</h1>
+      <figure>
+        <a href="https://de.wikipedia.org/wiki/Nagato_(Schiff)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Japanese_Battleship_Nagato_1944.jpg/1024px-Japanese_Battleship_Nagato_1944.jpg"></a>
+         <figcaption>
+         <h4><u>Klicke auf das Bild wenn du mehr erfahren willst</u></h4>
+        </figcaption>
+      </figure>
+     </header>
+     <main>
+      <article>
+        <div id="Eine kleine Geschichte">
+          <h3>Eine kleine Geschichte</h3>
+          <p><strong>Die Nagato</strong> wurde in den frühen 1920er Jahren in Dienst gestellt und war das erste Schlachtschiff der Welt, das mit 41-cm-Geschützen ausgestattet wurde. Dies machte sie zu einem der mächtigsten Schiffe ihrer Zeit. Sie nahm an verschiedenen Flottenmanövern und Übungen teil, um die Stärke der Kaiserlich Japanischen Marine zu demonstrieren.
+
+         Während des Zweiten Weltkriegs war die Nagato am Angriff auf Pearl Harbor im Dezember 1941 beteiligt, bei dem die japanische Marine einen Überraschungsangriff auf die US-Pazifikflotte durchführte. Später war sie auch an der Schlacht von Midway und der Schlacht von Leyte beteiligt.
+         
+         Nach dem Kriegsende wurde die Nagato 1946 außer Dienst gestellt und sollte gemäß den Bedingungen der Kapitulation Japans demilitarisiert werden. Im Jahr 1946 wurde sie jedoch bei den Atomtests der Operation Crossroads auf dem Bikini-Atoll eingesetzt. Hier wurde sie dem gewaltigen Druck und der Hitze einer Atomexplosion ausgesetzt und überstand diese Tests zunächst.
+         
+         Die Nagato wurde schließlich 1948 in der Nähe von Japan versenkt, um die mögliche Gefahr eines radioaktiven Lecks zu minimieren. Ihre Geschichte ist ein Symbol für die Veränderungen in der Kriegsführung und die Auswirkungen des Zweiten Weltkriegs auf die weltweiche Marinegeschichte.</p>
+        </div>
+      </article>
+     <div id="Stärken">
+        <h3>Stärken</h3>
+        <ul>
+            <li><h4>Starke Hauptbewaffnung</h4></li>
+            <p><strong>Die Nagato</strong> war das erste Schlachtschiff der Welt, das mit <strong>41-cm-Geschützen</strong> (16,1 Zoll) bewaffnet war. Diese Geschütze hatten eine beeindruckende Feuerkraft und eine hohe Reichweite, was sie zu einer ernsthaften Bedrohung für feindliche Schiffe machte.</p>
+            <li><h4>Dicke Panzerung</h4></li>
+            <p>Das Schiff war gut gepanzert, insbesondere im Bereich des Hauptgeschützturms und des Gürtelschutzes. Dies bot Schutz vor feindlichem Beschuss und machte die Nagato widerstandsfähig gegenüber Angriffen.</p>
+            <li><h4>Hohe Geschwindigkeit</h4></li>
+            <p>Im Vergleich zu vielen anderen Schlachtschiffen ihrer Zeit war die Nagato vergleichsweise schnell und konnte eine Geschwindigkeit von bis zu 26 Knoten erreichen. Dies gab ihr die Fähigkeit, sich schnell im Kampf zu bewegen und taktische Vorteile zu nutzen.</p>
+        </ul>
+     </div>
+     <div id="Schwächen">
+        <h3>Schwächen</h3>
+        <ul>
+         <li><h4>Begrenzte Flugabwehr</h4></li>
+         <p> Die Flugabwehrbewaffnung der Nagato war während ihres Dienstes oft veraltet. Sie war nicht gut auf die Abwehr von Luftangriffen vorbereitet, was sie anfälliger für feindliche Flugzeugangriffe machte.</p>
+         <li><h4>Alterungsprozess</h4></li>
+         <p>Als die Nagato im Zweiten Weltkrieg eingesetzt wurde, war sie bereits ein älteres Schlachtschiff und konnte nicht mehr mit den neueren und moderneren Schiffen mithalten. Ihr technologischer Rückstand wurde im Laufe des Krieges immer deutlicher.</p>
+         <li><h4>Kritische Trefferanfälligkeit</h4></li>
+         <p>Obwohl die Nagato stark gepanzert war, konnte sie bei schweren Treffern dennoch erheblichen Schaden erleiden. Insbesondere bei Torpedotreffern war sie anfällig, da ihre Torpedoschutzsysteme nicht so effektiv waren wie bei späteren Schlachtschiffen.</p>
+        </ul>
+     </div>
+     </main>
+     <footer>
+      <button style="margin-left: 80%;">
+        <a style="color: black;" href="#Navigation">Zum Seitenkopf</a>
+      </button>
+     </footer>
+     </body>  
+</html>

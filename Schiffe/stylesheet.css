@@ -1,0 +1,17 @@
+* {
+    background-color: lightseagreen;
+       
+}
+
+h1 {
+    color:blue
+}
+
+table {
+   margin: 2cm;
+}
+
+a [href='Nagato'] {
+    color: rgb(39, 51, 85);
+    margin: 5cm;
+}
